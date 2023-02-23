@@ -1,6 +1,6 @@
 # image_api
 
-Projeto em Flutter e Dart criado como base de apoio para aprender a consumir APIs através de URLs.
+Projeto em Flutter e Dart criado como base de apoio para aprender a consumir APIs através de arquivos JSON.
 
 Nesse caso, foi consumida a seguinte API: https://jsonplaceholder.typicode.com/photos
 
